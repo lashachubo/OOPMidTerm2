@@ -1,9 +1,5 @@
 # Task #1 - OOP Midterm 2
 
-**Student:** Lasha Chubinidze  
-**ID:** 27384916  
-**Package:** `oop.mid2.t1`
-
 ## Description
 
 This project maps values from a list of integers (`list1`) to corresponding strings (`list2`) based on their index and stores them in `list3`. For example, if list1 contains the value `3`, the 4th element of list2 (`index 3`) will be added to list3.
