@@ -11,5 +11,3 @@ The mapping is based on an animation shown at the [task link](http://max.ge/oop_
 - list1: holds integer indices.
 - list2: holds string values.
 - For each integer `i` in list1, we add `list2.get(i)` to list3.
-
-## Example
